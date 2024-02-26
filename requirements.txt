@@ -1,0 +1,9 @@
+PyGithub==2.1.1
+crewai
+langchain-community
+langchain-core
+openai
+wikipedia
+#
+pyaml
+shortuuid
